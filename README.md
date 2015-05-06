@@ -1,2 +1,6 @@
 # hello-world
 MYRESPOSITORY
+CISCO nexus 9k session in VA MAY 6TH
+OYE HELPED ME WITH THIS
+I WILL BE A CCIE SOON
+
